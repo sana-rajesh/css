@@ -1,0 +1,25 @@
+/*body{
+	background-image: url('th.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+  #b{
+	border-style:cursive;
+	border-width: 100px;
+	border-color: gray red gray yellow;
+	border-top-style:dotted ;
+	border-right-style: groove;
+	border-left-style: inset;
+    border-bottom-style:solid ;*/
+
+/*}*/
+#c {
+	border: dotted black;
+	padding: 100px;
+
+	background-clip:padding-box ;
+
+}
+#a{
+	
+}

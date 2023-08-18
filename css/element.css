@@ -1,0 +1,60 @@
+p{
+	color: blue;
+	font-size: 70px;
+	font-family:cursive;
+}
+div {
+   background-color:blue;
+   width: 40px;
+   height: 60px;
+}
+ *{
+ 	font-size: 70px;
+ 	font-family: cursive;
+ 	color: red
+ }
+* {
+	font-size: 90px;
+	font-family: cursive;
+	color: red;
+ }
+
+
+
+
+ input[type]{
+ 	color: yellow
+ }
+ input[type]{
+ 	color: pink
+ }
+  input[type="text"]{
+ 	color: blue
+ }
+ a[href]{
+ 	background-color: blue
+ }
+ /**/
+ a:link{
+ 	color: red;
+ }
+ a:visited{
+ 	color: yellow;
+ }
+a:hover{
+	color: red;
+	font-size: 60px;
+}
+a:active{
+	color: pink;
+}
+div:hover{
+	height: 80px;
+	width: 60px;
+	background-color: yellow;
+}
+div{
+   background-image: url('th.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
